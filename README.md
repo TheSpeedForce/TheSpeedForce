@@ -1,6 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working on my mini video game project
-🌱 I’m currently learning C#
+🔭 I’m currently working on my mini video game project <br>
+🌱 I’m currently learning C#  <br>
 📫 How to reach me: curi102808@gmail.com
 
 
